@@ -1,0 +1,5 @@
+.venv/
+.venv313/
+.env
+__MACOSX/
+store/
